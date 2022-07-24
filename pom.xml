@@ -13,9 +13,9 @@
 	</parent>
 
 	<groupId>com.definitelynotsean.products.service</groupId>
-	<artifactId>products.service</artifactId>
+	<artifactId>product.service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>products-service</name>
+	<name>product-service</name>
 	<description>CRUD products service, firebase backed.</description>
 	
 	<properties>
